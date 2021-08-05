@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TextView jsonResponseTxt = (TextView) findViewById(R.id.idJsonResponse);
-        jsonResponseTxt.setText("");
+//        TextView jsonResponseTxt = (TextView) findViewById(R.id.idJsonResponse);
+//        jsonResponseTxt.setText("");
 
     }
 }
