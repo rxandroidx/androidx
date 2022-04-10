@@ -94,6 +94,7 @@ public class BuildConfigs {
     public static final String PID_OPTION_1 = "<PidOptions ver=\"1.0\"> <Opts fCount=\"1\" fType=\"0\" iCount=\"0\" pCount=\"0\" format=\"0\" pidVer=\"2.0\" timeout=\"10000\"  env=\"P\"  /> <CustOpts><Param name=\"mantrakey\" value=\"\" /></CustOpts> </PidOptions>";
     public static final String PID_OPTION_2 = "<PidOptions ver=\"1.0\"><Opts env=\"P\" fCount=\"1\" fType=\"0\" iCount=\"0\" iType=\"\" pCount=\"0\" pType=\"\" format=\"0\" pidVer=\"2.0\" timeout=\"10000\" otp=\"\"  wadh=\"\" posh=\"UNKNOWN\" /><CustOpts><Param name=\"\" value=\"\"/></CustOpts></PidOptions>";
     public static final String PID_OPTION_3 = "<PidOptions ver=\"1.0\"> <Opts fCount=\"1\" fType=\"0\" iCount=\"0\" pCount=\"0\" format=\"0\" pidVer=\"2.0\" timeout=\"10000\"  env=\"P\"  /><Demo></Demo> <CustOpts><Param name=\"Param1\" value=\"\" /></CustOpts> </PidOptions>";
+    public static final String PID_POINT_4 = "<PidOptions ver =\"1.0\"><Opts env=\"P\" fCount=\"1\" fType=\"0\" iCount=\"1\" iType=\"0\" pCount=\"1\" pType=\"0\" format=\"0\" pidVer=\"2.0\" timeout=\"10000\" otp=\"\" wadh=\"\" posh=\"UNKNOWN\"/> <Demo></Demo> <CustOpts> <Param name=\"Param1\" value=\"\"/></CustOpts></PidOptions>";
 
 
 
