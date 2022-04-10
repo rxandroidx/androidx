@@ -3,15 +3,14 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 32
 
     defaultConfig {
 
         applicationId "com.jetpack.androidx"
 
         minSdkVersion 16
-        //noinspection OldTargetApi
-        targetSdkVersion 30
+        targetSdkVersion 32
 
         versionCode 1
         versionName "1.0"
