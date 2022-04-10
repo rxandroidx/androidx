@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.jetpack.rxandroid">
+    <application
+        android:usesCleartextTraffic="true"
+        tools:ignore="UnusedAttribute">
 
+    <uses-library
+        android:name="org.apache.http.legacy"
+        android:required="false" />
+
+    </application>
 </manifest>
