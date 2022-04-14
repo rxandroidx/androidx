@@ -28,6 +28,7 @@ android {
         buildConfigField 'String', 'APPLICATION_ID', '"com.netpaisa"'
         buildConfigField 'String', 'APPLICATION_IN', '"com.netpaisa.in"'
 
+        buildConfigField 'String', 'SITE_URL', '"https://reseller.netpaisa.com/api/"'
         buildConfigField 'String', 'BASE_URL_NPS', '"https://www.netpaisa.com/nps/api/"'
         buildConfigField 'String', 'BASE_URL_COM', '"https://reseller.netpaisa.com/api/"'
         buildConfigField 'String', 'BASE_URL_IN', '"https://netpaisa.in/api/"'
