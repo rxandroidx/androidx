@@ -28,6 +28,7 @@ public class BuildConfigs {
     public static final String  HEAD_X_API_KEY  = "skg#@!12#09" ;
     public static final String  NETPAISA_PASS_KEY  = "snetpaisaSW" ;
 
+    public static final String  LOGIN  = "true" ;
     public static final String  BANK_IT_AGENT_ID  = "" ;
     public static final String  BANK_IT_AGENT_ID_NPS  = "" ;
     public static final String  IMSI  = "404277270862423" ;
