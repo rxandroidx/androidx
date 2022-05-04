@@ -4,9 +4,9 @@ public class AppConst {
 
     public static String AGENT_OUTLET_ID = "";
 
-    public static String BANK_IT_AGENT_ID = BuildConfig.BANK_IT_AGENT_ID;
-    public static final String RISETECH_DEV_ID   = BuildConfig.RISETECH_DEV_ID;
-    public static final String RISEINTECH_PASSWORD = BuildConfig.RISEINTECH_PASSWORD;
+    public static String BANK_IT_AGENT_ID = BuildConfigs.BANK_IT_AGENT_ID;
+    public static final String RISETECH_DEV_ID   = BuildConfigs.RISETECH_DEV_ID;
+    public static final String RISEINTECH_PASSWORD = BuildConfigs.RISEINTECH_PASSWORD;
 
     public static final String RISEINTECH_VENDOR_BANK_ICICI = "ICICI";
     public static final String RISEINTECH_VENDOR_BANK_YES = "YES";

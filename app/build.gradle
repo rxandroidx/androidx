@@ -17,32 +17,6 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        buildConfigField 'String', 'ID', '"189509401986320399"'
-        buildConfigField 'String', 'VERSION_CODE', '"1"'
-        buildConfigField 'String', 'VERSION_NAME', '"1.0"'
-
-        buildConfigField "long", "TIMESTAMP",  System.currentTimeMillis()+"L"
-        buildConfigField 'String', 'BUILD_TYPE', '"debug"'
-        buildConfigField 'String', 'FLAVOR', '"netpaisa"'
-
-        buildConfigField 'String', 'APPLICATION_ID', '"com.netpaisa"'
-        buildConfigField 'String', 'APPLICATION_IN', '"com.netpaisa.in"'
-
-        buildConfigField 'String', 'SITE_URL', '"https://reseller.netpaisa.com/api/"'
-        buildConfigField 'String', 'BASE_URL_NPS', '"https://www.netpaisa.com/nps/api/"'
-        buildConfigField 'String', 'BASE_URL_COM', '"https://reseller.netpaisa.com/api/"'
-        buildConfigField 'String', 'BASE_URL_IN', '"https://netpaisa.in/api/"'
-
-
-        buildConfigField 'String', 'HEAD_X_API_KEY', '"skg#@!12#09"'
-        buildConfigField 'String', 'NETPAISA_PASS_KEY', '"snetpaisaSW"'
-        buildConfigField 'String', 'BANK_IT_AGENT_ID', '""'
-        buildConfigField 'String', 'IMSI', '"404277270862423"'
-        buildConfigField 'String', 'RISETECH_DEV_ID', '"RISEIN TECH PRIVATE LIMITED-RASHI052534"'
-        buildConfigField 'String', 'RISEINTECH_PASSWORD', '"gz9lft4fxa"'
-        buildConfigField 'String', 'HEXTOBYTE', '"0123456789abcdef"'
-        buildConfigField 'String', 'CHECKSUM_KEY', '"PackageName=netpaisa.sdk,NETPAISAPASSKEY=snetpaisaSW,x-api-key=skg#@!12#09"'
-
 
 
     }

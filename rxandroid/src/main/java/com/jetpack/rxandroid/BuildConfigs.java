@@ -17,7 +17,8 @@ public class BuildConfigs {
     public static final String  APPLICATION_IN  = "com.netpaisa.in" ;
 
     public static final String BASE_URL = "https://reseller.netpaisa.com/api/";
-  
+    public static final String SITE_URL = "https://reseller.netpaisa.com/api/";
+
     public static final String  BASE_URL_NPS  = "https://www.netpaisa.com/nps/api/" ;
     public static final String  BASE_URL_IN  = "https://netpaisa.in/api/" ;
     public static final String  BASE_URL_COM  = "https://reseller.netpaisa.com/api/" ;
